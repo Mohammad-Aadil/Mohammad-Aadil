@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Computer+Science Engineer;Machine Learning Learner;Always Learning New Things&center=true&width=500&height=50" alt="Typing SVG" data-testid="typing-svg" style="color: #ff6b6b; font-size: 24px; font-weight: bold;">
 </p>
 
-
 <br>
 
 <h5>👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning</h5>
