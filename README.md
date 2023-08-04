@@ -32,24 +32,38 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
 ## GitHub Stats
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/Mohammad-Aadil">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</p>
+<div align="center">
+  <div class="github-stat-container">
+    <a href="https://github.com/Mohammad-Aadil">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </a>
+  </div>
 
-<p align="center">
-  <a href="https://github.com/Mohammad-Aadil">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Aadil&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
+  <div class="github-stat-container">
+    <a href="https://github.com/Mohammad-Aadil">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Aadil&theme=radical" alt="GitHub Streak" />
+    </a>
+  </div>
 
-<p align="center">
-  <a href="https://github.com/Mohammad-Aadil">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
+  <div class="github-stat-container">
+    <a href="https://github.com/Mohammad-Aadil">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact&theme=radical" alt="Top Languages" />
+    </a>
+  </div>
+</div>
 
-## GitHub Stats
+<style>
+  .github-stat-container {
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+  }
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical)
+  .github-stat-container img {
+    display: block;
+    margin: 0 auto;
+  }
+</style>
