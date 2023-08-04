@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Mohammad Aadil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Computer+Science+Engineer;Machine+Learning+Learner;Always+Learning+New+Things&center=true&width=500&height=50" alt="Typing SVG" style="color: #ff6b6b; font-size: 24px; font-weight: bold;">
-</p>
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Computer+Science+Engineer;Machine+Learning+Learner;Always+Learning+New+Things&center=true&width=500&height=50" alt="Typing SVG" style="color: #6ab04c; font-size: 24px; font-weight: bold;">
+</p> 
 <br>
 
 <h5>👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning</h5>
