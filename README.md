@@ -52,18 +52,4 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
   </div>
 </div>
 
-<style>
-  .github-stat-container {
-    background-color: #f5f5f5;
-    border-radius: 5px;
-    padding: 20px;
-    margin: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    display: inline-block;
-  }
 
-  .github-stat-container img {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
