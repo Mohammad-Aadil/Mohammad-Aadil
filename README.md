@@ -28,8 +28,25 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## GitHub Stats
-![![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical)
-)
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/Mohammad-Aadil">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mohammad-Aadil">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Aadil&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mohammad-Aadil">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
 ## Most Used Languages
 ![Mohammad-Aadil most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact)
