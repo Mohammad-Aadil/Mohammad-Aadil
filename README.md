@@ -51,6 +51,25 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
 </p>
 
 ## Most Used Languages
-![Mohammad-Aadil most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact" alt="Mohammad-Aadil most used languages">
+</div>
+
+<style>
+  /* Add CSS styling for the container div */
+  div {
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Add CSS styling for the image */
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+</style>
 
