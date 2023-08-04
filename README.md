@@ -18,16 +18,46 @@
 As a data science enthusiast, I'm a computer science engineer with a passion for leveraging data to derive meaningful insights. I specialize in analyzing complex data using statistical and machine learning techniques, and I'm proficient in tools like Python and SQL. My effective communication skills allow me to present findings to both technical and non-technical stakeholders. I'm constantly learning and seeking challenging roles to drive business impact through data analysis.
 
 ## TECHNOLOGY STACK
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My GitHub Badges</title>
+  <style>
+    /* Add some padding and round the corners of the badges */
+    .badge {
+      display: inline-block;
+      padding: 8px 12px;
+      border-radius: 12px;
+    }
+
+    /* Customize the colors for each badge */
+    .badge-python { background-color: #3776AB; color: #FFFFFF; }
+    .badge-numpy { background-color: #013243; color: #FFFFFF; }
+    .badge-pandas { background-color: #150458; color: #FFFFFF; }
+    .badge-scikit { background-color: #F7931E; color: #FFFFFF; }
+    .badge-matplotlib { background-color: #11557c; color: #FFFFFF; }
+    .badge-seaborn { background-color: #3776AB; color: #FFFFFF; }
+    .badge-flask { background-color: #000000; color: #FFFFFF; }
+    .badge-powerbi { background-color: #F2C811; color: #000000; }
+    .badge-sql { background-color: #4479A1; color: #FFFFFF; }
+    .badge-github { background-color: #2088FF; color: #FFFFFF; }
+  </style>
+</head>
+<body>
+  <!-- Add the badges with the class name "badge" and respective class names for custom styles -->
+  <span class="badge badge-python">Python</span>
+  <span class="badge badge-numpy">NumPy</span>
+  <span class="badge badge-pandas">Pandas</span>
+  <span class="badge badge-scikit">Scikit-learn</span>
+  <span class="badge badge-matplotlib">Matplotlib</span>
+  <span class="badge badge-seaborn">Seaborn</span>
+  <span class="badge badge-flask">Flask</span>
+  <span class="badge badge-powerbi">Power BI</span>
+  <span class="badge badge-sql">SQL</span>
+  <span class="badge badge-github">GitHub Actions</span>
+</body>
+</html>
+
 
 ## GitHub Stats
 <h2 align="center">GitHub Stats</h2>
