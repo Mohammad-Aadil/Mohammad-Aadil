@@ -4,9 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Focused+Learner;Python|OOP;Machine+Learning|Deep+Learning|MLops;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG" style="color: #6ab04c; font-size: 24px; font-weight: bold; letter-spacing: 2px;">
   </a>
 </p>
-
 <br>
-
 <h5>👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning</h5>
 <h5>👀 I’m interested in DATA SCIENCE, MACHINE LEARNING INTUITIONS, DATA WRANGLING, DASHBOARDING, etc.</h5>
 <h5>🌱 I’m currently learning DATA SCIENCE</h5>
