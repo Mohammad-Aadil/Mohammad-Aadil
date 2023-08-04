@@ -4,7 +4,26 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Focused+Learner;Python|OOP;Machine+Learning|Deep+Learning|MLops;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG" style="color: #6ab04c; font-size: 24px; font-weight: bold; letter-spacing: 2px;">
   </a>
 </p>
+<style>
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+  }
 
+  @keyframes blink-caret {
+    50% {
+      border-color: transparent;
+    }
+  }
+
+  .typing-svg-text {
+    color: #6ab04c;
+    font-size: 24px;
+    font-weight: bold;
+    animation: typing 2s steps(20), blink-caret 0.5s step-end infinite;
+  }
+</style>
 <br>
 
 <h5>👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning</h5>
