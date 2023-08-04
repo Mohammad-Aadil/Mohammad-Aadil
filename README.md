@@ -50,4 +50,6 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
   </a>
 </p>
 
+## GitHub Stats
 
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical)
