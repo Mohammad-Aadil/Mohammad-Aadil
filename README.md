@@ -1,10 +1,38 @@
 <h1 align="center">Hi, I'm Mohammad Aadil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Focused+Learner;Python|OOP;Machine+Learning|Deep+Learning|MLops;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG" style="color: #6ab04c; font-size: 24px; font-weight: bold; letter-spacing: 2px;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Focused+Learner;Python|OOP;Machine+Learning|Deep+Learning|MLops;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG" class="typing-svg-text">
   </a>
 </p>
 
+<style>
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+  }
+
+  @keyframes blink-caret {
+    50% {
+      border-color: transparent;
+    }
+  }
+
+  .typing-svg-text {
+    color: #6ab04c;
+    font-size: 24px;
+    font-weight: bold;
+    animation: typing 2s steps(20), blink-caret 0.5s step-end infinite;
+  }
+
+  /* Additional Styling */
+  h5 {
+    color: #6ab04c;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+</style>
 <br>
 
 <h5>👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning</h5>
@@ -37,20 +65,4 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
     <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Mohammad-Aadil">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Aadil&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mohammad-Aadil">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-
-## Most Used Languages
-![Mohammad-Aadil most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact)
-
 
