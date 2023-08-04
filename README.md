@@ -9,7 +9,7 @@
 <h5>👀 I’m interested in DATA SCIENCE, MACHINE LEARNING INTUITIONS, DATA WRANGLING, DASHBOARDING, etc.</h5>
 <h5>🌱 I’m currently learning DATA SCIENCE</h5>
 <h5>💞️ I’m looking to collaborate on Data Science Projects</h5>
-<h5>📫 You can contact me mohammadaadil@gmail.com</h5>
+<h5>📫 You can contact me shaikhaadil8855@gmail.com</h5>
 
 <h2>PROFILE</h2>
 
