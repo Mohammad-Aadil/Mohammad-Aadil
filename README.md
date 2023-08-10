@@ -15,7 +15,7 @@
 ## 🌱 I’m currently learning DATA SCIENCE.
 ## 💞️ I’m looking to collaborate on Data Science Projects.
 ## 📫 You can contact me at shaikhaadil8855@gmail.com.
-[Contact me: shaikhaadil8855@gmail.com](mailto:shaikhaadil8855@gmail.com)
+
 
 
 <h2>PROFILE</h2>
