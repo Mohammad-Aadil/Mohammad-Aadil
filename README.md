@@ -15,6 +15,8 @@
 ## 🌱 I’m currently learning DATA SCIENCE.
 ## 💞️ I’m looking to collaborate on Data Science Projects.
 ## 📫 You can contact me at shaikhaadil8855@gmail.com.
+[Contact me: shaikhaadil8855@gmail.com](mailto:shaikhaadil8855@gmail.com)
+
 
 <h2>PROFILE</h2>
 As a data science enthusiast, I'm a computer science engineer with a passion for leveraging data to derive meaningful insights. I specialize in analyzing complex data using statistical and machine learning techniques, and I'm proficient in tools like Python and SQL. My effective communication skills allow me to present findings to both technical and non-technical stakeholders. I'm constantly learning and seeking challenging roles to drive business impact through data analysis.
