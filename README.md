@@ -16,8 +16,6 @@
 ## 💞️ I’m looking to collaborate on Data Science Projects.
 ## 📫 You can contact me at shaikhaadil8855@gmail.com.
 
-
-
 <h2>PROFILE</h2>
 As a data science enthusiast, I'm a computer science engineer with a passion for leveraging data to derive meaningful insights. I specialize in analyzing complex data using statistical and machine learning techniques, and I'm proficient in tools like Python and SQL. My effective communication skills allow me to present findings to both technical and non-technical stakeholders. I'm constantly learning and seeking challenging roles to drive business impact through data analysis.
 
@@ -32,6 +30,17 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+## ADDITIONAL TECHNOLOGY STACK FOR DATA SCIENCE
+Here are some more technologies and tools I use in my data science and analytics journey:
+
+- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+These tools help me in various aspects of data analysis, machine learning, and data visualization.
 
 ## GitHub Stats
 <div align="center">
@@ -68,10 +77,4 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/shaikh.aadil/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<blockquote align="center">
-  <p>"Learning gives creativity Creativity leads to thinking Thinking provides knowledge Knowledge makes you great." - APJ Abdul Kalam</p>
-</blockquote>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic
