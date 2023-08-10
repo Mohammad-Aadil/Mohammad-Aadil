@@ -5,49 +5,45 @@
   </a>
 </p>
 <br>
-<h5>👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning</h5>
-<h5>👀 I’m interested in DATA SCIENCE, MACHINE LEARNING INTUITIONS, DATA WRANGLING, DASHBOARDING, etc.</h5>
-<h5>🌱 I’m currently learning DATA SCIENCE</h5>
-<h5>💞️ I’m looking to collaborate on Data Science Projects</h5>
-<h5>📫 You can contact me shaikhaadil8855@gmail.com</h5>
+<h5>👋 Hi there, I'm a passionate learner exploring the world of data science and machine learning</h5>
+<h5>🌱 Currently learning and building projects in the field of Data Science</h5>
+<h5>💡 Interested in data wrangling, dashboarding, and turning data into actionable insights</h5>
+<h5>💬 Open to collaborate on Data Science projects and share knowledge</h5>
+<h5>📫 You can reach me at shaikhaadil8855@gmail.com</h5>
 
-<h2>PROFILE</h2>
+<h2>Profile</h2>
 
-As a data science enthusiast, I'm a computer science engineer with a passion for leveraging data to derive meaningful insights. I specialize in analyzing complex data using statistical and machine learning techniques, and I'm proficient in tools like Python and SQL. My effective communication skills allow me to present findings to both technical and non-technical stakeholders. I'm constantly learning and seeking challenging roles to drive business impact through data analysis.
+I'm a computer science engineer with a strong interest in data science and machine learning. My background in programming and analytical thinking allows me to approach complex problems with creativity and efficiency. I specialize in data analysis, machine learning, and visualization, and I'm dedicated to continuous learning to stay up-to-date with the latest trends in the field.
 
-## TECHNOLOGY STACK
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+## Languages and Tools
+
+<p align="center">
+    <!-- Add badges for your languages and tools here -->
+</p>
 
 ## GitHub Stats
-<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <div class="github-stat-container">
     <a href="https://github.com/Mohammad-Aadil">
       <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical" alt="GitHub Stats" />
     </a>
-  </div>
-
-  <div class="github-stat-container">
-    <a href="https://github.com/Mohammad-Aadil">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Aadil&theme=radical" alt="GitHub Streak" />
-    </a>
-  </div>
-
-  <div class="github-stat-container">
-    <a href="https://github.com/Mohammad-Aadil">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact&theme=radical" alt="Top Languages" />
-    </a>
-  </div>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact&theme=radical" alt="Top Languages" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Aadil&theme=radical" alt="GitHub Streak" />
 </div>
 
+## Connect with Me
 
+<p align="center">
+    <a href="mailto:shaikhaadil8855@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://github.com/Mohammad-Aadil"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/mohammad-aadil/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<!-- Display profile views -->
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Mohammad-Aadil&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" /> 
+</p>
+
+<!-- You can also include other sections like projects, contributions, certifications, etc. based on your profile. -->
