@@ -64,7 +64,7 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
   <a href="https://www.linkedin.com/in/mrmohammadaadil/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/yourusername/">
+  <a href="https://www.instagram.com/shaikh.aadil/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
