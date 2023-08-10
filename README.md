@@ -68,3 +68,5 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+> "Learning gives creativity Creativity leads to thinking Thinking provides knowledge Knowledge makes you great." - APJ Abdul Kalam
