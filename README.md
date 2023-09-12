@@ -79,5 +79,5 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
 </p>
 
 <blockquote align="center">
-  <p>"Learning gives creativity Creativity leads to thinking Thinking provides knowledge Knowledge makes you great." - APJ Abdul Kalam</p>
+  <p>Learning gives creativity Creativity leads to thinking Thinking provides knowledge Knowledge makes you great. - APJ Abdul Kalam</p>
 </blockquote>
