@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
-<h1 align="center" style="color: #3498db;">Hi, I'm Mohammad Aadil</h1>
-<p align="center" style="font-size: 18px; color: #555;">Passionate Data Scientist | Focused Learner</p>
+<h1 align="center" style="color: #1f618d;">Hi, I'm Mohammad Aadil</h1>
+<p align="center" style="font-size: 18px; color: #566573;">Passionate Data Scientist | Focused Learner</p>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -20,42 +20,42 @@
 </p>
 
 <!-- Introduction -->
-<p align="center" style="font-size: 20px; color: #333;">
+<p align="center" style="font-size: 20px; color: #1f618d;">
   👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning.
 </p>
 
 <!-- Interests -->
-<p align="center" style="font-size: 18px; color: #555;">
+<p align="center" style="font-size: 18px; color: #566573;">
   👀 I’m interested in DATA SCIENCE, MACHINE LEARNING INTUITIONS, DATA WRANGLING, DASHBOARDING, etc.
 </p>
 
 <!-- Learning -->
-<p align="center" style="font-size: 18px; color: #555;">
+<p align="center" style="font-size: 18px; color: #566573;">
   🌱 I’m currently learning DATA SCIENCE.
 </p>
 
 <!-- Collaboration -->
-<p align="center" style="font-size: 18px; color: #555;">
+<p align="center" style="font-size: 18px; color: #566573;">
   💞️ I’m looking to collaborate on Data Science Projects.
 </p>
 
 <!-- Contact -->
-<p align="center" style="font-size: 18px; color: #555;">
-  📫 You can contact me at shaikhaadil8855@gmail.com.
+<p align="center" style="font-size: 18px; color: #566573;">
+  📫 You can contact me at <a href="mailto:shaikhaadil8855@gmail.com">shaikhaadil8855@gmail.com</a>.
 </p>
 
 ---
 
 <!-- Profile Section -->
-<h2 align="center" style="color: #3498db;">PROFILE</h2>
-<p align="center" style="font-size: 18px; color: #555;">
+<h2 align="center" style="color: #1f618d;">PROFILE</h2>
+<p align="center" style="font-size: 18px; color: #566573;">
   As a data science enthusiast, I'm a computer science engineer with a passion for leveraging data to derive meaningful insights. I specialize in analyzing complex data using statistical and machine learning techniques, and I'm proficient in tools like Python and SQL. My effective communication skills allow me to present findings to both technical and non-technical stakeholders. I'm constantly learning and seeking challenging roles to drive business impact through data analysis.
 </p>
 
 ---
 
 <!-- Technology Stack -->
-<h2 align="center" style="color: #3498db;">TECHNOLOGY STACK</h2>
+<h2 align="center" style="color: #1f618d;">TECHNOLOGY STACK</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
@@ -66,7 +66,7 @@
 ---
 
 <!-- GitHub Stats -->
-<h2 align="center" style="color: #3498db;">GitHub Stats</h2>
+<h2 align="center" style="color: #1f618d;">GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/Mohammad-Aadil">
     <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -76,7 +76,7 @@
 ---
 
 <!-- Connect with Me -->
-<h2 align="center" style="color: #3498db;">🌐 Connect with Me</h2>
+<h2 align="center" style="color: #1f618d;">🌐 Connect with Me</h2>
 <p align="center">
   <a href="mailto:shaikhaadil8855@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -95,6 +95,6 @@
 ---
 
 <!-- Quote -->
-<blockquote align="center" style="font-size: 18px; color: #555;">
+<blockquote align="center" style="font-size: 18px; color: #566573;">
   <p>Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great. - APJ Abdul Kalam</p>
 </blockquote>
