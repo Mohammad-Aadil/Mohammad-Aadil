@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Mohammad Aadil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Focused+Learner;Python|OOP;Machine+Learning|Deep+Learning|MLops;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG" style="color: #6ab04c; font-size: 24px; font-weight: bold; letter-spacing: 2px;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Focused+Learner;Python|OOP;Machine+Learning|Deep+Learning|MLops;Always%20learning%20new%20things&center=true&width=600&height=70" alt="Typing SVG" style="font-size: 32px; font-weight: bold; letter-spacing: 2px; background: linear-gradient(135deg, #ff5733, #6ab04c, #3290a8, #ff33b2);-webkit-background-clip: text;background-clip: text;-webkit-text-fill-color: transparent;">
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Mohammad-Aadil">
     <img src="https://komarev.com/ghpvc/?username=Mohammad-Aadil&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" />
