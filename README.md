@@ -15,8 +15,7 @@
 
 ## 👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning.
 ## 👀 I’m interested in DATA SCIENCE, MACHINE LEARNING INTUITIONS, DATA WRANGLING, DASHBOARDING, etc.
-## 🌱 I’m currently learning DATA SCIENCE.
-## student: I’m currently learning: `NLP` and `Deep Learning`.
+## 🌱 I’m currently a student, diving into: `NLP` and `Deep Learning`.
 ## :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1qol9N-HjanIPY37U_IkDL5MJWZDeZbYn/view?usp=sharing).
 
 ## 💞️ I’m looking to collaborate on Data Science Projects.
@@ -75,4 +74,6 @@ I am a data science enthusiast and computer science engineer with a passion for 
 
   <a href="https://github.com/Mohammad-Aadil">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
- 
+  </a>
+
+  <a href="
