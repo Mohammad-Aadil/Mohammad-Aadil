@@ -23,7 +23,7 @@
 ## 📫 You can contact me at shaikhaadil8855@gmail.com.
 
 <h2>PROFILE</h2>
-As a data science enthusiast, I'm a computer science engineer with a passion for leveraging data to derive meaningful insights. I specialize in analyzing complex data using statistical and machine learning techniques, and I'm proficient in tools like Python and SQL. My effective communication skills allow me to present findings to both technical and non-technical stakeholders. I'm constantly learning and seeking challenging roles to drive business impact through data analysis.
+I am a data science enthusiast and computer science engineer with a passion for leveraging data to derive meaningful insights. My expertise lies in analyzing complex data using statistical and machine learning techniques. I am proficient in tools like Python and SQL, and my effective communication skills allow me to present findings to both technical and non-technical stakeholders. I am constantly learning and seeking challenging roles to drive business impact through data analysis.
 
 ## TECHNOLOGY STACK
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -75,15 +75,4 @@ As a data science enthusiast, I'm a computer science engineer with a passion for
 
   <a href="https://github.com/Mohammad-Aadil">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mrmohammadaadil/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/shaikh.aadil/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<blockquote align="center">
-  <p>Learning gives creativity Creativity leads to thinking Thinking provides knowledge Knowledge makes you great. - APJ Abdul Kalam</p>
-</blockquote>
+ 
