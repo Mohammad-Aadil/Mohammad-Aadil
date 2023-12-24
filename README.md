@@ -16,6 +16,9 @@
 ## 👋 Hi, I’m Mohammad Aadil, a passionate learner exploring the world of data science and machine learning.
 ## 👀 I’m interested in DATA SCIENCE, MACHINE LEARNING INTUITIONS, DATA WRANGLING, DASHBOARDING, etc.
 ## 🌱 I’m currently learning DATA SCIENCE.
+## student: I’m currently learning: `NLP` and `Deep Learning`.
+## :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1qol9N-HjanIPY37U_IkDL5MJWZDeZbYn/view?usp=sharing).
+
 ## 💞️ I’m looking to collaborate on Data Science Projects.
 ## 📫 You can contact me at shaikhaadil8855@gmail.com.
 
