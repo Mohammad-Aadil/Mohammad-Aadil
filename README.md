@@ -75,5 +75,14 @@ I am a data science enthusiast and computer science engineer with a passion for 
   <a href="https://github.com/Mohammad-Aadil">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/mrmohammadaadil/">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/shaikh.aadil/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-  <a href="
+<blockquote align="center">
+  <p>Learning gives creativity Creativity leads to thinking Thinking provides knowledge Knowledge makes you great. - APJ Abdul Kalam</p>
+</blockquote>
