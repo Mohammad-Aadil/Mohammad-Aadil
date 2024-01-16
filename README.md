@@ -22,7 +22,7 @@
 ## 📫 You can contact me at shaikhaadil8855@gmail.com.
 
 <h2>DATA SCIENCE</h2>
-I am a data science enthusiast and computer science engineer with a passion for leveraging data to derive meaningful insights. My expertise lies in analyzing complex data using statistical and machine learning techniques. I am proficient in tools like Python and SQL, and my effective communication skills allow me to present findings to both technical and non-technical stakeholders. I am constantly learning and seeking challenging roles to drive business impact through data analysis.
+I am skilled in using Python for data analysis, machine learning, and deep learning. Additionally, I have a strong foundation in statistics. My expertise allows me to effectively analyze data, extract valuable insights, and contribute to professional and impactful projects.
 
 ### TECHNOLOGY STACK
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
