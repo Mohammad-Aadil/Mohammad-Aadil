@@ -44,6 +44,12 @@ I am a data science enthusiast and computer science engineer with a passion for 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
+## DEVOPS & CLOUD TECHNOLOGIES
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
 ## GitHub Stats
 <div align="center">
   <div class="github-stat-container">
@@ -60,17 +66,4 @@ I am a data science enthusiast and computer science engineer with a passion for 
 
   <div class="github-stat-container">
     <a href="https://github.com/Mohammad-Aadil">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact&theme=radical" alt="Top Languages" />
-    </a>
-  </div>
-</div>
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:shaikhaadil8855@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
-  <a href="https://github.com/Mohammad-Aadil">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh
