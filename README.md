@@ -6,7 +6,7 @@
 I'm **Mohammad Aadil**, a passionate learner exploring the world of data science and analytics.
 
 ## 🚀 Current Focus
-I'm currently diving into the realms of **Natural Language Processing (NLP)** and **Deep Learning**.
+I'm currently exploring Natural Language Processing (NLP) and Deep Learning
 
 ## 💼 Seeking Opportunities
 I’m open to internships or job opportunities, particularly in the field of **Data Science**, **Machine Learning**, **DevOps**, **Cloud**, and **Data Analyst** positions. You can view my [resume](https://drive.google.com/file/d/1qol9N-HjanIPY37U_IkDL5MJWZDeZbYn/view?usp=sharing) for more details.
