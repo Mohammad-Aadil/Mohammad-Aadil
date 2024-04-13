@@ -47,6 +47,8 @@ I’m looking to collaborate on **Data Science** and **Data Analyst** projects. 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrmohammadaadil/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/shaikh.aadil/)
 ## Let's Grow Together!
-Join me on this exciting journey through the world of data science! Follow me on GitHub to stay updated with my latest projects and insights. Let's connect and learn together!
 
-> "Learning gives creativity Creativity leads to thinking Thinking provides knowledge Knowledge makes you great." - APJ Abdul Kalam
+Come join me on this exciting journey in the world of data science and data analysis! Keep up with my latest projects and insights by following me on GitHub. Let's connect and learn together!
+
+
+
