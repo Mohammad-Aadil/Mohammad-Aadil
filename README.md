@@ -82,7 +82,7 @@
     <p>I’m currently open to internships or job opportunities, particularly in the field of Data Science, Machine Learning, DevOps, Cloud, and Data Analyst positions. You can view my <a href="https://drive.google.com/file/d/1qol9N-HjanIPY37U_IkDL5MJWZDeZbYn/view?usp=sharing" style="color: #007bff; text-decoration: none;">resume</a> for more details.</p>
 
     <h2>🤝 Let's Collaborate</h2>
-    <p>I’m looking to collaborate on Data Science Projects. Feel free to reach out to me at <a href="mailto:shaikhaadil8855@gmail.com" style="color: #007bff; text-decoration: none;">shaikhaadil8855@gmail.com</a>.</p>
+    <p>I’m looking to collaborate on Data Science and Data Analyst projects. Feel free to reach out to me at <a href="mailto:shaikhaadil8855@gmail.com" style="color: #007bff; text-decoration: none;">shaikhaadil8855@gmail.com</a>.</p>
 
     <h2>🚀 Technology Stack</h2>
     <div class="technology-stack">
