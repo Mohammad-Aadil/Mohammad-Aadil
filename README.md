@@ -16,7 +16,7 @@
 
 ## <font size="5">💻 Technology Stack</font>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
@@ -50,13 +50,13 @@
 ## <font size="5">🌐 Connect with Me</font>
 <p align="center">
   <a href="mailto:shaikhaadil8855@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=plastic&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/Mohammad-Aadil">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23000000.svg?style=plastic&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/mrmohammadaadil/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/shaikh.aadil/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white">
