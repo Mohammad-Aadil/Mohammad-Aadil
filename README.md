@@ -1,35 +1,4 @@
 # Hi there, I'm Mohammad Aadil! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Profile Button</title>
-<style>
-  .profile-button {
-    display: inline-block;
-    padding: 12px 24px;
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
-    color: #fff;
-    background-color: #4B8BBE;
-    border-radius: 8px;
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  .profile-button:hover {
-    background-color: #3776AB;
-  }
-</style>
-</head>
-<body>
-
-<a href="https://github.com/Mohammad-Aadil" class="profile-button">View Profile</a>
-
-</body>
-</html>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mohammad-Aadil&label=Profile%20views&color=blueviolet&style=plastic)](https://github.com/Mohammad-Aadil)
 
@@ -99,3 +68,5 @@
 <font size="4">Come join me on this exciting journey in the world of data science and data analysis! Keep up with my latest projects and insights by following me on GitHub. Let's connect and learn together!</font>
 
 ### **<font size="4">#DataScience #MachineLearning #AI #ArtificialIntelligence #DeepLearning #BigData #Analytics #DataAnalytics #Python #Programming #DataVisualization #DataMining #NeuralNetworks #ComputerVision #NaturalLanguageProcessing #NLP #Statistics #Coding #Github #OpenSource #TechCommunity #CareerDevelopment #DataScientists #DataAnalysis #DataEngineering #DataDriven #DataAnalyst #Innovation #Technology #STEM #Research #Education #Learning #Collaboration #Community #Networking #FutureOfWork</font>**
+
+<a href="https://github.com/Mohammad-Aadil" style="display: inline-block; padding: 12px 24px; font-size: 18px; font-weight: bold; text-decoration: none; color: #fff; background-color: #4B8BBE; border-radius: 8px; border: none; cursor: pointer; transition: background-color 0.3s ease;">View Profile</a>
