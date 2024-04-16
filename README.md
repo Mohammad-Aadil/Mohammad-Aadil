@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Aadil! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mohammad-Aadil&label=Profile%20views&color=blueviolet&style=plastic)](https://github.com/Mohammad-Aadil)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mohammad-Aadil&label=Profile%20views&color=blueviolet&style=plastic&logo=GitHub)](https://github.com/Mohammad-Aadil)
 
 ## <font size="5">🌟 About Me</font>
 <font size="4">I'm <b>Mohammad Aadil</b>, a passionate learner exploring the world of data science and analytics.</font>
