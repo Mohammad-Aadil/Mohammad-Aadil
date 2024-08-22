@@ -13,7 +13,7 @@
 <font size="4">I'm currently exploring Natural Language Processing (NLP) and Deep Learning.</font>
 
 ## <font size="5">💼 Seeking Opportunities</font>
-<font size="4">I’m open to job opportunities, particularly in the field of <b>Data Science</b>, <b>AI Engineer<b>,<b>Machine Learning</b>,</b>, and <b>Data Analyst</b> positions. You can view my <a href="https://drive.google.com/file/d/1qol9N-HjanIPY37U_IkDL5MJWZDeZbYn/view?usp=sharing">resume</a> for more details.</font>
+<font size="4">I’m open to job opportunities, particularly in the field of <b>Data Science</b>, <b>AI Engineer<b>, <b>Machine Learning Engineer</b>, </b>, and <b>Data Analyst</b> positions. You can view my <a href="https://drive.google.com/file/d/1qol9N-HjanIPY37U_IkDL5MJWZDeZbYn/view?usp=sharing">resume</a> for more details.</font>
 
 ## <font size="5">🤝 Let's Collaborate</font>
 <font size="4">I’m looking to collaborate on <b>Data Science</b> and <b>Data Analyst</b> projects. Feel free to reach out to me at <a href="mailto:shaikhaadil8855@gmail.com">shaikhaadil8855@gmail.com</a>.</font>
