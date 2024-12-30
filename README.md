@@ -13,7 +13,7 @@ I'm **Mohammad Aadil**, an Associate Data Scientist with a **B.Tech in Computer 
 At present, I am deepening my knowledge of **Natural Language Processing (NLP)** and **Deep Learning**. I believe these fields hold the key to the future of AI and am excited to explore new possibilities.
 
 ## 💼 Looking for New Opportunities
-I am seeking new opportunities where I can apply my skills in **Data Science**, **AI Engineering**, **Machine Learning Engineering**, and **Data Analytics**. As a **Computer Science and Engineering** graduate, I can contribute to any tech-related project, turning complex challenges into world-class solutions. You can view my <a href="https://drive.google.com/drive/home">resume</a> for more details.
+I am seeking new opportunities where I can apply my skills in **Data Science**, **AI Engineering**, **Machine Learning Engineering**, and **Data Analytics**. As a **Computer Science and Engineering** graduate, I can contribute to any tech-related project, turning complex challenges into world-class solutions. You can view my <a href="https://drive.google.com/file/d/1TEmsKiVvc5gE95mmJr04rWbzHYsXobL9/view?usp=sharing">resume</a> for more details.
 
 ## 🤝 Let's Collaborate
 I am open to working with others on challenging **data science**, **AI engineering**, and **machine learning** projects. Whether you're building innovative AI models, or working on large-scale data projects, I’m eager to collaborate and help bring your ideas to life. Reach out to me at <a href="mailto:shaikhaadil8855@gmail.com">shaikhaadil8855@gmail.com</a>.
