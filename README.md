@@ -6,19 +6,19 @@
   </a>
 </p>
 
-## <font size="5">🌟 About Me</font>
-<font size="4">I'm <b>Mohammad Aadil</b>, an Associate Data Scientist with a passion for exploring the world of data science and analytics. I specialize in machine learning, AI, and natural language processing (NLP), and am always eager to learn and grow in this dynamic field.</font>
+## 🌟 About Me
+I'm **Mohammad Aadil**, an Associate Data Scientist with a **B.Tech in Computer Science and Engineering**. I am passionate about using my engineering background to solve complex problems through **data science**, **AI**, and **machine learning**. My aim is to create world-class solutions that have a real impact on the future of technology.
 
-## <font size="5">🚀 Current Focus</font>
-<font size="4">Currently, I am focused on advanced applications of <b>Natural Language Processing (NLP)</b> and <b>Deep Learning</b>, leveraging the latest techniques in AI to drive impactful solutions.</font>
+## 🚀 Current Focus
+At present, I am deepening my knowledge of **Natural Language Processing (NLP)** and **Deep Learning**. I believe these fields hold the key to the future of AI and am excited to explore new possibilities.
 
-## <font size="5">💼 Seeking New Opportunities</font>
-<font size="4">I am actively looking for new opportunities in the field of <b>Data Science</b>, <b>AI Engineering</b>, <b>Machine Learning Engineering</b>, and <b>Data Analytics</b>. I am passionate about taking on challenging problems and contributing to cutting-edge AI and machine learning projects. You can view my <a href="https://drive.google.com/file/d/1qol9N-HjanIPY37U_IkDL5MJWZDeZbYn/view?usp=sharing">resume</a> for more details.</font>
+## 💼 Looking for New Opportunities
+I am seeking new opportunities where I can apply my skills in **Data Science**, **AI Engineering**, **Machine Learning Engineering**, and **Data Analytics**. As a **Computer Science and Engineering** graduate, I can contribute to any tech-related project, turning complex challenges into world-class solutions. You can view my <a href="https://drive.google.com/file/d/1qol9N-HjanIPY37U_IkDL5MJWZDeZbYn/view?usp=sharing">resume</a> for more details.
 
-## <font size="5">🤝 Let's Collaborate</font>
-<font size="4">I’m looking to collaborate on <b>Data Science</b> and <b>AI Engineering</b> projects. Feel free to reach out to me at <a href="mailto:shaikhaadil8855@gmail.com">shaikhaadil8855@gmail.com</a>.</font>
+## 🤝 Let's Collaborate
+I am open to working with others on challenging **data science**, **AI engineering**, and **machine learning** projects. Whether you're building innovative AI models, or working on large-scale data projects, I’m eager to collaborate and help bring your ideas to life. Reach out to me at <a href="mailto:shaikhaadil8855@gmail.com">shaikhaadil8855@gmail.com</a>.
 
-## <font size="5">💻 Technology Stack</font>
+## 💻 Technology Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </p>
 
-## <font size="5">☁️ DevOps & Cloud Technologies</font>
+## ☁️ Cloud & DevOps Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
@@ -44,14 +44,14 @@
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
 </p>
 
-## <font size="5">📊 GitHub Stats</font>
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Aadil&show_icons=true&theme=radical">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Aadil&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aadil&layout=compact&theme=radical">
 </p>
 
-## <font size="5">🌐 Connect with Me</font>
+## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:shaikhaadil8855@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=plastic&logo=gmail&logoColor=white">
@@ -67,8 +67,7 @@
   </a>
 </p>
 
-## <font size="5">Let's Grow Together!</font>
+## Let's Grow Together!
+Join me on my exciting journey in the world of **data science**, **AI**, and **machine learning**. With my **engineering background**, I can contribute to and lead innovative projects that can make a real impact. Follow my latest projects on GitHub, and let’s create world-class solutions together!
 
-<font size="4">Join me on my journey in the world of data science and AI engineering! Stay updated with my latest projects and contributions by following me on GitHub. Let's connect, collaborate, and grow together!</font>
-
-### **<font size="4">#DataScience #MachineLearning #AI #ArtificialIntelligence #DeepLearning #BigData #Analytics #DataAnalytics #Python #Programming #DataVisualization #DataMining #NeuralNetworks #ComputerVision #NaturalLanguageProcessing #NLP #Statistics #Coding #Github #OpenSource #TechCommunity #CareerDevelopment #DataScientists #DataAnalysis #DataEngineering #DataDriven #DataAnalyst #Innovation #Technology #STEM #Research #Education #Learning #Collaboration #Community #Networking #FutureOfWork</font>**
+### **#DataScience #MachineLearning #AI #ArtificialIntelligence #DeepLearning #BigData #Analytics #Python #Programming #DataVisualization #DataMining #NLP #NeuralNetworks #ComputerVision #DataAnalytics #Innovation #Technology #Learning #Collaboration #Networking #CareerDevelopment #Engineering #TechProjects**
